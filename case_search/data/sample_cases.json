@@ -1,0 +1,22 @@
+[
+  {
+    "case_number": "105訴123",
+    "court": "臺灣新竹地方法院",
+    "plaintiff": "張三",
+    "defendant": "李四",
+    "lawyer": "王律師",
+    "summary": "原告請求被告返還借款。",
+    "result": "原告之訴駁回。",
+    "full_text": "本院判決如下..."
+  },
+  {
+    "case_number": "105訴124",
+    "court": "臺灣臺北地方法院",
+    "plaintiff": "王五",
+    "defendant": "陳六",
+    "lawyer": "林律師",
+    "summary": "契約糾紛案。",
+    "result": "被告應給付原告新台幣十萬元。",
+    "full_text": "判決全文..."
+  }
+]
